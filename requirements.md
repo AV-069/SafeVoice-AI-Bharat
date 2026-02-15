@@ -1,6 +1,6 @@
 # Requirements Document: Project SafeVoice
 
-## Introduction
+## Introduction 
 
 Project SafeVoice is an AI-driven scam protection tool designed for the AI for Bharat Hackathon. The system provides real-time protection against phone scams targeting vulnerable populations, particularly senior citizens. SafeVoice leverages Azure Speech-to-Text for audio capture, Amazon Bedrock for intelligent scam pattern analysis, and Twilio for automated family alerts. The application features a senior-friendly interface with multi-language support for Hindi and Malayalam.
 
